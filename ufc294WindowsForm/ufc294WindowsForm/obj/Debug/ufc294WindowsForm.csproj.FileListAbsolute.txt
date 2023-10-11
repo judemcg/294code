@@ -8,5 +8,4 @@ C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Deb
 C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.csproj.CoreCompileInputs.cache
 C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.exe
 C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.pdb
-C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.Form1.resources
-C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.Properties.Resource1.resources
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.ufc294.resources

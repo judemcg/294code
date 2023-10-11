@@ -50,5 +50,10 @@ namespace ufc294WindowsForm
             txtInfo.Text = Properties.Resources.info;
             picChar.Image = Properties.Resources.ufcPoster;
         }
+
+        private void txtInfo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
