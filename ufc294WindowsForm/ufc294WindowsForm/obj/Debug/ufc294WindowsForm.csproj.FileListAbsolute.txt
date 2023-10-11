@@ -1,0 +1,12 @@
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\bin\Debug\ufc294WindowsForm.exe.config
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\bin\Debug\ufc294WindowsForm.exe
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\bin\Debug\ufc294WindowsForm.pdb
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.csproj.AssemblyReference.cache
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.Properties.Resources.resources
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.csproj.GenerateResource.cache
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.exe
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.pdb
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.Form1.resources
+C:\Users\judem\OneDrive\Desktop\Code\ufc294WindowsForm\ufc294WindowsForm\obj\Debug\ufc294WindowsForm.Properties.Resource1.resources
